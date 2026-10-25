@@ -1,7 +1,6 @@
-# YummCart — Practicals 2–6 and 8
+# YummCart 
 
-A standalone Java/XML-free programmatic Android UI learning project for CS7035. The app is intentionally separate from Student Information, Practical 9 and Practical 10.
-
+A standalone Java/XML-free programmatic Android UI learning project for CS7035. 
 ## Visual direction: Forest & Mint
 - Deep forest green, warm ivory, mint and sage accents.
 - No orange/saffron palette.
